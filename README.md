@@ -95,22 +95,22 @@ A combinação pode contribuir para a sensação de estômago pesado, especialme
 
 ## 3.3 Proposta de substituição
 
-Foi elaborada uma alternativa composta por pão de forma integral, tapioca pronta, banana prata, whey protein e meia porção de doce de leite. A escolha priorizou maior oferta de carboidratos e proteínas e menor quantidade de lipídios, mantendo o valor energético dentro da faixa estabelecida de 460 a 480 kcal.
+Foi elaborada uma alternativa composta por pão de forma integral, aveia em flocos, banana prata, whey protein e meia porção de doce de leite. A tapioca foi substituída pela aveia em flocos, mantendo o valor energético dentro da faixa estabelecida de 460 a 480 kcal. A escolha priorizou maior oferta de carboidratos e proteínas e menor quantidade de lipídios em comparação ao lanche habitual.
 
 ### Tabela 1 – Composição nutricional da nova proposta de lanche
 
 | Alimento | Nº de porções | Porção caseira total | Carboidratos (g) | Proteínas (g) | Lipídios (g) | Calorias (kcal) |
 |---|---:|---|---:|---:|---:|---:|
 | Pão de forma integral | 1 | 2 fatias – 50 g | 25 | 6 | 1 | 130 |
-| Tapioca pronta | 1 | 3 colheres de sopa cheias – 50 g | 27 | 0 | 0 | 110 |
+| Aveia em flocos | 1 | 2 colheres de sopa – 30 g | 17 | 4 | 2 | 100 |
 | Banana prata | 1 | 1 unidade média – 90 g | 23 | 1 | 0 | 90 |
 | Whey protein | 1 | 1 medidor – 30 g | 4 | 23 | 1,5 | 120 |
 | Doce de leite | 0,5 | ½ colher de sopa – aproximadamente 10 g | 5,5 | 0,5 | 0,75 | 30 |
-| **Total** | — | — | **84,5** | **30,5** | **3,25** | **480** |
+| **Total** | — | — | **74,5** | **34,5** | **5,25** | **470** |
 
 **Fonte:** Elaborada pelos autores com base no banco de alimentos fornecido na atividade (2026).
 
-A nova proposta totaliza 480 kcal, valor que se encontra dentro da faixa exigida. O cálculo foi realizado multiplicando os valores nutricionais de cada alimento pelo número de porções utilizado.
+A nova proposta totaliza 470 kcal, valor que se encontra dentro da faixa exigida. O cálculo foi realizado multiplicando os valores nutricionais de cada alimento pelo número de porções utilizado.
 
 ## 3.4 Comparação entre os lanches
 
@@ -118,16 +118,16 @@ A nova proposta totaliza 480 kcal, valor que se encontra dentro da faixa exigida
 
 | Nutriente | Lanche habitual | Nova proposta | Diferença aproximada |
 |---|---:|---:|---:|
-| Carboidratos | 69 g | 84,5 g | +15,5 g |
-| Proteínas | 7 g | 30,5 g | +23,5 g |
-| Lipídios | 18 g | 3,25 g | −14,75 g |
-| Valor energético | 470 kcal | 480 kcal | +10 kcal |
+| Carboidratos | 69 g | 74,5 g | +5,5 g |
+| Proteínas | 7 g | 34,5 g | +27,5 g |
+| Lipídios | 18 g | 5,25 g | −12,75 g |
+| Valor energético | 470 kcal | 470 kcal | 0 kcal |
 
 **Fonte:** Elaborada pelos autores (2026).
 
-Embora os dois lanches apresentem valor energético semelhante, a distribuição dos macronutrientes é diferente. A nova proposta apresenta aproximadamente 15,5 g a mais de carboidratos, 23,5 g a mais de proteínas e 14,75 g a menos de lipídios.
+Embora os dois lanches apresentem o mesmo valor energético, a distribuição dos macronutrientes é diferente. A nova proposta apresenta aproximadamente 5,5 g a mais de carboidratos, 27,5 g a mais de proteínas e 12,75 g a menos de lipídios.
 
-Os carboidratos da nova alternativa são provenientes principalmente da tapioca, do pão integral, da banana e do doce de leite. Esses nutrientes podem contribuir para a disponibilidade de energia durante a sessão de musculação. As proteínas são fornecidas principalmente pelo whey protein e pelo pão integral, totalizando 30,5 g. Já a menor quantidade de lipídios pode favorecer maior conforto gastrointestinal quando o lanche é consumido próximo ao treinamento.
+Os carboidratos da nova alternativa são provenientes principalmente do pão integral, da aveia, da banana e do doce de leite. Esses nutrientes podem contribuir para a disponibilidade de energia durante a sessão de musculação. As proteínas são fornecidas principalmente pelo whey protein, pelo pão integral e pela aveia, totalizando 34,5 g. Já a menor quantidade de lipídios pode favorecer maior conforto gastrointestinal quando o lanche é consumido próximo ao treinamento.
 
 A composição da refeição deve ser considerada, e não apenas o total calórico, porque carboidratos, proteínas e lipídios apresentam funções metabólicas diferentes. Os carboidratos podem contribuir para a disponibilidade de energia; as proteínas fornecem aminoácidos relacionados à recuperação e à síntese proteica muscular; e os lipídios, quando consumidos em maior quantidade imediatamente antes do exercício, podem retardar o esvaziamento gástrico em algumas pessoas.
 
@@ -135,7 +135,9 @@ A composição da refeição deve ser considerada, e não apenas o total calóri
 
 O intervalo de 40 minutos entre o lanche e o início do treino é relativamente curto. Por isso, a quantidade e a composição dos alimentos podem influenciar o conforto gastrointestinal. Refeições muito volumosas, ricas em gordura ou de digestão mais lenta podem aumentar a probabilidade de desconforto, principalmente durante exercícios de membros inferiores, que envolvem grandes grupos musculares e podem exigir maior esforço físico.
 
-A nova proposta reduz significativamente o teor de lipídios, passando de 18 g no lanche habitual para aproximadamente 3,25 g. Também substitui o alimento frito por alimentos com menor quantidade de gordura e acrescenta uma fonte concentrada de proteínas. Dessa forma, a alternativa apresenta características teoricamente mais compatíveis com uma refeição consumida próxima ao exercício.
+A nova proposta reduz significativamente o teor de lipídios, passando de 18 g no lanche habitual para aproximadamente 5,25 g. Também substitui o alimento frito por alimentos com menor quantidade de gordura e acrescenta fontes de proteínas. Dessa forma, a alternativa apresenta características teoricamente mais compatíveis com uma refeição consumida próxima ao exercício.
+
+A aveia fornece carboidratos, proteínas e pequena quantidade de lipídios, além de poder aumentar a saciedade. Entretanto, por apresentar maior quantidade de fibras do que a tapioca, deve ser testada individualmente, pois algumas pessoas podem sentir maior volume ou desconforto quando consomem aveia pouco tempo antes do treino. A hidratação e a forma de preparo também devem ser consideradas.
 
 Entretanto, a proposta ainda possui volume alimentar considerável para um intervalo de apenas 40 minutos. A tolerância individual deve ser observada, pois algumas pessoas podem apresentar desconforto mesmo com refeições nutricionalmente adequadas. A velocidade de ingestão, a hidratação, a intensidade do treino, o nível de estresse, o sono e a alimentação realizada ao longo do dia também podem influenciar a fadiga e o desempenho.
 
@@ -143,9 +145,9 @@ A literatura científica recomenda que o planejamento alimentar em torno do exer
 
 # 4 CONSIDERAÇÕES FINAIS
 
-A análise do caso demonstrou que o lanche habitual de Lucas possuía valor energético semelhante ao da alternativa proposta, mas apresentava diferenças importantes na distribuição dos macronutrientes. O lanche habitual fornecia mais gordura e pouca proteína, enquanto a nova proposta apresentou maior quantidade de carboidratos e proteínas e menor quantidade de lipídios.
+A análise do caso demonstrou que o lanche habitual de Lucas possuía valor energético semelhante ao da alternativa proposta, mas apresentava diferenças importantes na distribuição dos macronutrientes. O lanche habitual fornecia mais gordura e pouca proteína, enquanto a nova proposta apresentou maior quantidade de proteínas, quantidade ligeiramente maior de carboidratos e menor quantidade de lipídios.
 
-A alternativa elaborada totalizou 480 kcal, 84,5 g de carboidratos, 30,5 g de proteínas e 3,25 g de lipídios, atendendo aos critérios definidos na atividade. A redução de alimentos fritos e do teor de gordura pode favorecer o conforto gastrointestinal durante o treinamento, especialmente considerando o intervalo de apenas 40 minutos.
+A alternativa elaborada totalizou 470 kcal, 74,5 g de carboidratos, 34,5 g de proteínas e 5,25 g de lipídios, atendendo aos critérios definidos na atividade. A substituição da tapioca pela aveia manteve o lanche dentro da faixa calórica exigida e acrescentou pequena quantidade de proteínas e lipídios. A redução de alimentos fritos e do teor de gordura pode favorecer o conforto gastrointestinal durante o treinamento, especialmente considerando o intervalo de apenas 40 minutos.
 
 Apesar disso, a nova proposta não deve ser entendida como prescrição individualizada. A definição da melhor estratégia dependeria da avaliação de um nutricionista, considerando as necessidades energéticas, a rotina, a alimentação total, a hidratação, o treinamento, o sono e a tolerância digestiva de Lucas. O profissional de Educação Física pode contribuir identificando sinais como fadiga, queda de desempenho e desconforto, encaminhando o praticante para avaliação nutricional adequada.
 
